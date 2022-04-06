@@ -37,3 +37,4 @@ You can also use the manual pages to get very detailed information.
 man find
 ```
 
+[NEXT](./step02.md)

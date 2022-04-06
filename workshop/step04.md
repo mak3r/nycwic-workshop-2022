@@ -30,3 +30,4 @@ Push our webserver up to the registry
 docker push ${vminfo:developer:public_ip}:5000/py-web-server:3.7
 ```
 
+[NEXT](./step05.md)

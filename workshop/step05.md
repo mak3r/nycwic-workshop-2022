@@ -38,3 +38,4 @@ echo
 echo "http://${vminfo:developer:public_ip}:$SVC_NP"
 ```
 
+[NEXT](./step06.md)
