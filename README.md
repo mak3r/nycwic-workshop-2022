@@ -6,15 +6,16 @@ The goal of this workshop is to get hands on with kubernetes and cloud native to
 
 ## Steps
 
-1. run a python app
-1. run a python app in a container
-1. run a python app with container orchestration
-1. Connect k8s cluster to Rancher
-1. View apps/content in Rancher
-1. Discuss
+1. [Linux Basics](./workshop_steps/step01)
+1. [Run an App in a Container](./workshop_steps/step02)
+1. [Expose an App in a Container](./workshop_steps/step03)
+1. [Container Orchestration](./workshop_steps/step04)
+1. [Setup K3s our Kubernetes Distribution](./workshop_steps/step05)
+1. [Scaling Microservices and Next Steps](./workshop_steps/step06)
+
 
 ## Extras
 
-* Rancher Desktop
-* k3s
-* Rancher
+* [Rancher Desktop](https://rancherdesktop.io/)
+* [k3s](https://github.com/k3s-io/k3s)
+* [Rancher](https://github.com/rancher/rancher)
